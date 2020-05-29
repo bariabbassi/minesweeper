@@ -1,4 +1,5 @@
-# Jeux de mots mêlés
+# :capital_abcd: Word Search
+A word search puzzle solver
 
 ## Comment utiliser le programme
 - make mm15 			: compile le projet
